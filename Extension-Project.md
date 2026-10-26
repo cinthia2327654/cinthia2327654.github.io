@@ -10,4 +10,10 @@
 * The type of varible amd data types I will be using is string and Int.
 
 
+* Begging:
+  Welcome user: "System.out.println("=== Fitness Tracker & Goal Checker ==="); "
+  Give instructions: "
+  
+
+
 
