@@ -2,7 +2,7 @@
 
 ## Projects
 
-- Project 1: Description
+- [Fitness project](extension-project.md): This project is about tracking your fitness goals.
 
 - Project 2: Description
 
